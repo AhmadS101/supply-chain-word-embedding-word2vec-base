@@ -1,0 +1,220 @@
+Supply chain management (SCM) came into sharp focus years ago when the cherry red paint for Corvettes, sourced from a single supplier in Japan, suddenly became unavailable. An earthquake had disrupted the production center, causing short-term supply issues and exposing the risks of a single-point-of-failure supply chain.
+
+Virtually every product we use comes to us through a supply chain. Whether we buy a new cell phone or order a prescription, there’s a complex set of steps the items go through to arrive at our doorstep.
+
+ 
+What Is Supply Chain Management?
+
+Supply chain management involves overseeing and optimizing steps, including:
+
+    Forecasting product demand
+    Sourcing raw supplies from suppliers
+    Authorizing supplier payments
+    Manufacturing products
+    Warehousing products
+    Controlling inventory management
+    Handling risk management
+    Transporting products to various locations (such as distributors, retailers, and end users)
+    Logistics management (i.e., managing the logistics of returned products)
+
+ 
+Why Is Global Supply Chain Management Important?
+
+An effective supply chain management process helps ensure that vital products arrive at the right place at the right time. Synchronizing these steps in an efficient manner is a big part of what keeps the global supply chain and the economy going.
+
+Modern business operations rely on smooth supply chain management to help them adapt to shifting market dynamics and meet customer demands for quick delivery. Supply chain transparency provides insights that help organizations to manage inventory levels, eliminate waste, and reduce transportation costs. Using a variety of supply chain management tools, professionals can answer questions such as:
+
+    What new products are customers demanding?
+    How can we reduce warehousing time and deliver goods to customers faster?
+    Which products are sitting in the warehouse and need new pricing strategies?
+    Are we scheduling deliveries according to the most efficient routes?
+    What are our vulnerabilities to interruptions in the supply chain?
+
+ 
+Gaining a Competitive Edge with Supply Chain Management
+
+Supply chain management is important for helping to improve customer satisfaction. The managers of supply chains serve a critical role in an organization, developing strategies to ensure each step along the way is as efficient as possible.
+
+They oversee each supply chain activity, ranging from sourcing raw materials to delivering finished products to end customers and improving logistics management. All of these steps help to maximize customer satisfaction and improve operational efficiency.
+
+Supply chain professionals are consummate problem solvers. Using data from the entire business to guide their decisions, they foresee and resolve potential impediments to keep business operations running smoothly.
+
+ 
+Supply Chain Management in the Military
+
+Military supply chains are huge and global. They support everything from basic needs such as food, water, and clothing to highly specialized equipment such as fighter jets, satellites, and cybersecurity tools.
+
+“Military supply chains must operate in peace, crisis, and war – often with extreme precision in harsh or unpredictable environments,” says Dr. Robert Lee Gordon, the Department Chair of Analytics, Economics, and Finance at American Military University. “Unlike civilian supply chains, military logistics information – such as routes, inventory, and suppliers – must be protected. Managing secure supply chains, encrypting logistics data, and vetting suppliers are critical tasks.”
+
+ 
+Typical Career Opportunities in Supply Chain Management
+
+Pursuing a career path in supply chain management may be ideal for people with an analytical mind, strong interpersonal skills, and an interest in making sense of complex problems. There are many industries where supply chain management is needed, including:
+
+    Manufacturing
+    Healthcare
+    Retail
+    Food and beverage
+    Pharmaceutical
+    Electronics
+    E-commerce
+    Military service
+
+There are also various positions available in this field, such as:
+
+    Supply chain manager or purchasing manager – Acquires services and materials, negotiates supplier contracts, oversees quality control, and identifies ways to improve supply chain processes
+    Supply chain analyst – Keeps processes such as manufacturing, shipping, and transportation operating efficiently
+    Warehouse manager – Manages distribution centers and warehouse operations, including the receipt, storage, and transport of goods, tracking of inventory, and management of warehouse safety and security
+    Inventory manager – Maintains appropriate product inventory levels, including forecasting, replenishing, and tracking stock to support customer demand
+    Transportation manager – Organizes the movement of goods by air, sea, or land – ensuring routes are secure and shipments are timely
+    Operations manager – Verifies that goods are produced according to relevant standards and work to improve processes, staff management, and resource allocation
+    Logistics officer – Oversees supply, distribution, and transportation operations – and also plans support for military missions
+    Supply chain director – Leads organizations in developing and executing supply chain activities in a way that meets business goals
+    Supply chain consultant – Advises organizations on ways they can improve supply chain operations, including finding creative solutions to obstacles and improving performance
+
+ 
+The Benefits of Supply Chain Roles
+
+For supply chain professionals, there are many exciting aspects of the job, such as:
+
+    Using the latest technology
+    Making a difference in people’s lives
+    Building connections around the world
+
+ 
+Using the Latest Technology
+
+Complex supply chains require various technical solutions to gain insight into how the organization is performing against its supply chain strategy. Because of the need for visibility and mechanization, supply chain managers gain exposure to the latest supply chain technology, including:
+
+    Robotics to automate many warehouse tasks
+    Augmented reality for training staff
+    3D printing to create different components
+    Digital twins (a digital representation of a physical object for simulating different business scenarios)
+    Machine learning to optimize supply chain operations
+
+Supply chain solutions use mathematical models and machine learning to make data-driven decisions that streamline supply chain activities. With technology, organizations can more quickly make informed decisions about supply chain management-related issues, such as stocking levels, staffing levels, and shipping activities.
+Making a Difference in People’s Lives
+
+Supply chain activities aren’t just about making sure consumers get the latest tech gadget or in-style purse. Successful supply chain management is behind the delivery of life-saving medicines to hospitals, emergency goods to disaster sites, and food to underserved communities. For instance, the shortage of IV fluids after Hurricane Helene demonstrated the severe impact that disruptions in the supply chain have on people’s lives.
+Building Connections Around the World
+
+Material shortages, regional differences in compliance and regulatory rules, and geopolitical instability are just a few of the supply chain challenges that come with managing a global supply chain. Supply chain professionals work with colleagues and suppliers around the world to keep their supply chain running at optimal performance. They need to be attuned to cultural sensitivities in different countries as well as emerging political issues that may affect production and impact customer and manufacturing demands.
+
+ 
+Current Challenges in Supply Chain Management
+
+“Organizations must be ready for supply chain disruptions, particularly from tariffs looming over the U.S.,” says Dr. Gordon. “Being prepared and developing contingency plans for shortages or developing alternative vendors is critical at this time. If key items are required for the organization, multiple suppliers will need to be developed to decrease the risk of one supplier causing production delays.”
+
+Dr. Gordon advises using the 80/20 rule. “Whenever an outside supplier provides a key component, it’s best to have two suppliers. One supplier will provide 80% of the required product and the second will provide 20% of the product.”
+
+If one supplier has an issue, increasing orders with a second supplier is easier than building an entirely new production line with a new supplier. Making sure to have options and developing them in advance is a lot better than having to develop a supplier and produce specialized equipment on short notice.
+
+ 
+How Can Supply Chain Management Professionals Mitigate Risk?
+
+According to the Forbes Business Development Council, organizations with a well-managed supply chain use various strategies to prevent disruptions and improve customer service:
+
+    Vetting suppliers to understand their workplace and ethical sourcing practices
+    Diversifying suppliers
+    Collaborating with suppliers on problem solving
+    Monitoring product quality
+    Using 3D printing to create components
+    Obtaining guidance from an insurance company specializing in understanding complex supply chains
+    Using predictive analytics to respond quickly to market shifts and changes in customer expectations
+    Monitoring supplier performance to identify potential vulnerabilities
+
+ 
+Supply Chain Models
+
+There are numerous supply chain models businesses can use to optimize processes. They include:
+
+    The continuous flow model
+    The Agile supply chain model
+    The vertical integration model
+
+The Continuous Flow Model
+
+A continuous flow model is appropriate for organizations with high-demand products that require vigilant oversight of their production and distribution. This model helps with predicting demand, reducing lead time, and making processes more consistent.
+The Agile Supply Chain Model
+
+An Agile supply chain model is used by enterprises that face uncertainty and unexpected market fluctuations. This type of supply chain model allows for swift responsiveness, greater flexibility in supply sources and shift production, and easier adaption to variabilities.
+The Vertical Integration Model
+
+A vertical integration model helps businesses to manage everything from extracting raw materials to supporting product delivery. The goal is to deliver more consistent product quality. This model also helps companies reduce their reliance on outside suppliers, lower costs through economies of scale, and gain more control over production and delivery.
+
+ 
+What Are Common Supply Chain Activities?
+
+Effective supply chain management involves keeping a close eye on many processes across the entire supply chain, from the initial acquisition of raw goods to distribution of final products and handling of returned products. Supply chain management leaders are always on the lookout for ways to gain a competitive advantage by enhancing manufacturing processes and reducing production costs while exceeding customer expectations.
+Raw Material Sourcing
+
+Strategic sourcing helps reduce costs and lower the risk of supply chain problems due to material shortages or transportation delays.
+Adapting to Changing Market Needs
+
+Supply chain management involves the ability to adapt to changes in the market. For example supply chain managers must adapt to global chain supply shifts such as political situations, regulatory changes, and evolving customer preferences. They may also deal with unexpected challenges such as natural disasters and pandemics.
+Demand Planning and Supply Planning
+
+Demand and supply planning helps businesses to make accurate projections about what their customers want and adapt inventories accordingly. If a business’s demand planning shows a need for a higher volume of products or services, supply planning involves how to adapt manufacturing processes to meet changing market demands.
+Inventory Management
+
+Inventory management is necessary to help accelerate the production of goods. This process is complex.
+
+It also involves analyzing trends and ensuring raw materials arrive at the right place and time, in the right quantity and quality, to keep a production process moving forward. Part of inventory management is transporting goods from suppliers to the manufacturing floor and from there to internal warehouses.
+
+If inventory management falls short, that costs the company money and may result in delays in delivery. Inventories are constantly in flux, so supply chain management needs real-time insight into the status of products and services.
+Enterprise Resource Planning Systems
+
+An integral part of supply chain management solutions includes enterprise resource planning (ERP) systems. This central platform keeps track of everything from the cost of raw goods to the logistics of manufacturing, warehousing, and shipping final products. An ERP system also offers instant transparency into supply chain performance metrics, such as:
+
+    Stock levels of products
+    Overstock of goods
+    Warehouse costs
+    Order accuracy
+    Fulfillment rates
+
+ERP systems can also serve to automate routine supply chain processes like invoicing and order completion. Using insights from an enterprise resource planning system, organizations can optimize resource allocation to improve operational efficiency.
+Analyzing Costs
+
+In an era of big-box stores and giant e-commerce providers, organizations are under relentless pressure to reduce the costs of their products. Consequently, supply chain managers are often tasked with negotiating supplier contracts and taking advantage of volume discounts. They also use data from enterprise resource planning and other systems to continually analyze the cost of goods and how best to source materials.
+Overseeing Production Schedules
+
+Production scheduling sets the sequence and timing of all aspects of manufacturing and production of goods. With a smooth-running production schedule, a business can ensure that it is quickly getting quality products into the hands of customers. Any downtime in the production schedule can cause problems downstream in the manufacturing or delivery process.
+Risk Management
+
+There are inherent risks to supply chain operations, ranging from cybersecurity attacks to product shortages to natural disasters. 11% of U.S. enterprises surveyed reported that supply chain disruptions resulted in a loss of more than 20% in annual revenues, according to the research group Economic Intelligence Unit.
+
+Risk management involves a systematic approach to identifying potential threats and vulnerabilities. With this information, enterprises can develop mitigation approaches to quickly respond if these threats occur.
+
+ 
+How Supply Chain Management Supports Sustainability Goals
+
+More than 70% of consumers around the world say sustainability is important in their choice of products, according to a recent report by Simon Kucher. Interestingly, consumers are willing to pay an average of 9.7% more for products that are sourced in a sustainable way.
+
+Making a supply chain more environmentally friendly involves gaining visibility into the environmental footprint of raw materials, manufacturing operations, transportation, and other areas of the supply chain. This investigative endeavor into corporate sustainability may be complex, involving seeking sustainability reports and metrics from suppliers, carriers, and others involved in the supply chain.
+
+There are numerous ways to lower an organization’s carbon footprint and build a more sustainable supply chain. For example, an organization can:
+
+    Reduce transportation emissions, either by making shipping more efficient or engaging carriers who use electric vehicles.
+    Make warehouses more environmentally friendly. Everything from the lighting to the concrete floors in the warehouse can be sourced in an eco-friendly manner. Also, consider the source of electricity that runs warehouses and how to connect with green energy suppliers.
+    Negotiate contracts with suppliers to require they meet specific goals for ethical and environmental sourcing.
+    Cut out waste. With an estimated 8% of surplus products ending up in landfills, it’s essential to find ways to better reuse or recycle products. For example, some businesses resell returned or overstock items to liquidators, or they disassemble products and repurpose them.
+    Form a committee that is passionate about sustainability and task them with tracking environmental metrics across your supply chain.
+
+Being innovative and collaborative in this field pays off. Across the entire supply chain, there are various opportunities to streamline operations, lower costs, and create higher customer satisfaction.
+
+ 
+AMU’s Supply Chain Management Degrees
+
+For adult learners interested in understanding the basics of supply chain management or upskilling their abilities, American Military University (AMU) offers three degrees:
+
+    An online Associate of Arts in Supply Chain Management
+    An online Bachelor of Arts in Supply Chain Management
+    An online Master of Arts in Supply Chain Management
+
+Courses taught in these academic programs include the principles of supply chain management, retail transportation, and the fundamentals of contracting and acquisition. Other courses include global demand management, supply chain risk management, the principles of e-commerce, and technology in supply chain management.
+
+All of these degree programs have received specialty accreditation from the Accreditation Council for Business Schools and Programs (ACBSP®). This type of accreditation is a guarantee that these degree programs have been examined for high academic quality by professional evaluators.
+
+For more information about AMU’s degree offerings, visit our business administration and management degree program page.
+
+ACBSP is a registered trademark of the Accreditation Council for Business Schools and Programs.

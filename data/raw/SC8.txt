@@ -1,0 +1,69 @@
+
+What Is Reverse Logistics?
+
+Reverse logistics is an important aspect of supply chain management, which successful supply chain organizations use to execute operations efficiently and increase value for their end customers. By investing time into learning the different types of reverse logistics and the challenges involved in coordination and management, supply chain professionals can leverage their understanding to help lower costs and keep processes running smoothly.
+What is reverse logistics?
+
+Reverse logistics refers to the supply chain process of returning products from end users back through the supply chain to either the retailer or manufacturer. Whether the customer is returning items they don't need, the end of the product life cycle has been reached or the product is damaged or flawed, it's simply good business to offer returns to your customers, and that's where reverse logistics comes into play. This process also applies when items need to be either disposed of or recycled and includes the scenario where the end user is the one handling the refurbishment, disposal or even resale of the product in question.
+reverse logistics
+Types of reverse logistics
+
+Following are the main types of reverse logistics:
+Returns management
+
+The most common reverse-logistics process, returns management, deals with regular customer returns and should represent a seamless, hassle-free experience in order to boost customer loyalty and brand image.
+Return policy and procedure
+
+This is the policy against which all customer returns are measured, and it should be followed consistently by both customers and employees alike. It's good practice to keep these policies visible and easily accessible to customers.
+Remanufacturing or refurbishment
+
+Reconditioning products that are returned prevents organizations and retailers from forfeiting profit (or losing money) on defective products while eliminating unnecessary waste.
+Packaging management
+
+Organizations with packaging management processes are able to reuse packaging in order to reduce waste and save the cost that would otherwise be spent on new packaging for returned items.
+Unsold products
+
+Directly focused on returning items from end users or fulfillment centers back to manufacturers, the process of returning unsold products is commonly the result of delivery refusal, poor sales or could involve other factors.
+End of service life
+
+Some products need to be returned at the end of their useful life in order for manufacturers to manage their proper environmental disposal.
+Delivery failure
+
+If products cannot be delivered, they are returned to fulfillment centers where they may be shipped back to the manufacturer, however, it's possible for efficient organizations to manage delivery failure by correcting the issue and resending.
+Rental equipment
+
+Rented or leased products are returned at the end of a defined term and sent back to the manufacturer for either disposal, recycling or redeployment.
+Repair and maintenance
+
+Such as in the case of many consumer electronics (laptops, for example), products may be returned to have repairs or warranty work performed.
+The reverse logistics process
+
+The process used to manage the return of goods depends on the type of reverse logistics in question as well as the type of business the organization operates and in which industry. For example, a clothing retailer will often deal with generic customer returns, while a coffee pod manufacturer would offers customers a mail-back recycling program for used pods. Breweries use reverse logistics to gain back their keg canisters so that they can clean and refill them for further distribution. Each business should have its process mapped out to ensure maximum efficiency and to take advantage of any incentives for streamlining its reverse-logistics activities to increase environmental sustainability.
+reverse logistics process
+The five stages of reverse logistics
+Process the return
+
+When customers initiate a return, the organization must then initiate the return process and put their standard operating procedure in motion. Every company that deals with returns needs to have an organized method of initiating returns. This means outlining the step-by-step process that returned items will go through once they leave the hands of the customer or end user. Defining this stage can help organizations reduce unnecessary waste and pollution as a result of uncoordinated trucking.
+Process the return
+Determine the return category
+
+Upon return, products need to be inspected in order to determine where they should be placed next in the process. Once a product is returned there are a few options for next steps. It may need to undergo refurbishment, recycling or be prepped for resale to fill another order. Organizations that have streamlined their reverse-logistics processes will have systems in place to identify the issue and categorize the return before it arrives. For instance, at the initiation of a return, e-commerce giant Amazon asks its customers to indicate the reason, be it that the wrong item was shipped, the item is defective, the shipping materials were damaged or another issue. This enables the organization to process the return promptly.
+Determine the return category
+Move products to reduce waste
+
+Continuously keeping returned products in motion can help to reduce the amount of waste produced when products sit for lengthy periods. Items due for repairs should be moved quickly to the repair department so that they are not left in the balance. The same applies to items requiring disposal or resale — these should be moved to the appropriate designated area where they can be managed and continue on their journey through the remainder of the supply chain as necessary.
+reverse logistics
+Execute the repair process
+
+Items relocated to the repair department should be dealt with in a timely fashion so that any necessary end-of-life arrangements can be made. Repairable items should be repaired quickly and reinstated into the organization's inventory or disposed of if they are irreparable. In the case where specific parts or components are still usable, these should be sold off to manufacturers to be used in the creation of new products.
+Execute the repair process
+Recycle items that cannot be repaired or resold
+
+If it can't be fixed or parted out, it must be disposed of in the correct fashion. Organizations must do their due diligence when it comes to recycling and disposing of items that cannot be repaired. This means taking environmental sustainability into account and addressing issues that result from wasted products. Any component that can be recycled should be handled accordingly which may involve the disassembly of the product in full or in part.
+Recycle items that cannot be repaired or resold
+The goal of successful reverse logistics
+
+Regardless of the type of organization you represent, optimizing your reverse logistics can provide beneficial outcomes for both you and the environment. The goal of successful reverse logistics is to keep products moving in circularity so that manufacturing, distribution, shipping and delivery, returns, repairs and disposal can all remain in sync as part of a constantly spinning model of efficiency. Not only does this lower costs for organizations and subsequently their customers and end users, but it also reduces the number of products that end up in our landfills. By developing and adopting a solid reverse-logistics plan, your organization can create additional value for your customers by showing them how you manage these inevitable processes.
+Optimize your reverse-logistics strategy
+
+Optimize your reverse-logistics strategy with the ASCM Certified in Logistics, Transportation and Distribution (CLTD) program. Professionals who have earned the CLTD designation are better prepared to implement industry best practices and help reduce unnecessary costs and product waste. To learn more about this certification, view our product page.

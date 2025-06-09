@@ -1,0 +1,156 @@
+
+Supply Chain Management vs Logistics: Differences, Similarities and Roles
+Abby JenkinsAbby Jenkins | Product Marketing Manager
+July 25, 2022
+supply chain management vs logistics
+
+There are plenty of similarities between supply chain management (SCM) and logistics, but there are key differences that separate the two practices. Understanding the role each plays can help companies make operational improvements, enhance customer service and build a competitive advantage.
+
+In this article:
+
+    Similarities between Supply Chain Management and Logistics
+    How Supply Chain Management and Logistics Are Different
+    Logistical Components of the Supply Chain
+    How to Streamline Supply Chain Management with Logistics
+
+What Are Supply Chain Logistics?
+
+Supply chain logistics coordinate the storage and shipping of goods and services across the supply chain. The practice begins with raw materials, continues on to manufacturing and/or distribution and ends when a business delivers finished goods to the customer or when products are returned to their final destination.
+
+Key Takeaways
+
+    While many use supply chain management and logistics interchangeably, they cover different (but related) activities.
+    A supply chain covers the production and delivery of goods and services to all types of customers.
+    When well executed, both supply chain management and logistics can give companies a competitive advantage and bring value to customers.
+
+Are Logistics and Supply Chain Management the Same Thing?
+
+Logistics focuses on the movement and storage of items in the supply chain. Supply chain management (SCM) is more comprehensive, covering all of the coordination between partners that have a role in this network, including sourcing, manufacturing, transporting, storing and selling. The ultimate goal of SCM is to find processes that ensure a smooth, efficient flow of goods that give customers an excellent experience and drive the business forward.
+
+While supply chain management handles activities between separate entities, logistics focuses on the internal movement of goods. Additionally, SCM supports all purchasing, production and distribution of goods. Logistics, meanwhile, moves and stores goods between different points in the supply chain. To learn more, read our article on inbound and outbound logistics.
+Supply Chain Management vs. Logistics
+
+SCM includes the high-level processes involved in sourcing and buying raw materials and eventually creating finished goods. SCM uses logistics to deliver goods to the consumer, but it ultimately strives to boost the bottom line and increase a business’s competitive edge.
+
+In other words, SCM sets the strategy and directs daily logistical activities that happen in factories, warehouses, local shipping centers and other facilities. Logistics is an aspect of the supply chain that stores or delivers finished goods or services to the customer, whether that’s a manufacturer, distributor or consumer. The goal of logistics is to get goods and services to the customer on time and at a competitive price. Learn more in our introductory logistics guide.
+What Is Supply Chain Management?
+
+Supply chain management refers to the activities that create finished goods from raw materials and deliver them to the customer. SCM also focuses on improving supply chain processes, which can benefit both customers and business partners.
+
+A company can only optimize and continuously refine SCM when it has visibility across its supply chain. This visibility enables companies to track goods and services as they move through each stage of the supply chain, which makes it much easier to see if everything is running as planned. It also gives decision-makers more time to respond to disruptions or other roadblocks.
+
+SCM involves overseeing an often-vast network of sub-suppliers (like raw materials providers), suppliers, manufacturers, logistics partners, wholesale distributors, retailers and end users. The relationships between these various stakeholders in the supply chain vary. They can be vertical, such as between parts and materials suppliers, manufacturers and retailers, or horizontal, where a company merges with or acquires a similar business that operates at the same stage of the supply chain.
+
+To illustrate how supply chain management works, let’s use a home cleaning products manufacturer as an example. As part of the SCM function, the company sources the chemicals and containers it needs from suppliers, makes the end product and then distributes the finished goods to convenience stores, drug stores and supermarkets. Supply chain management touches on every process involved in the movement of those products.
+What Are Logistics?
+
+Logistics includes planning and executing the storage and movement of goods between different points in the supply chain. Logistics coordinates facilities, people, equipment and other resources to ensure products move when they’re supposed to and there is space for them at the next stop.
+
+Demand planning, transportation (including fleet management), inventory management, material handling and order fulfillment are all processes that fall under logistics. To learn more, read our article on logistics management.
+How Are Supply Chain Management and Logistics the Same?
+
+Both supply chain management and logistics focus on the flow of goods from the point of origin to the endpoint. Both disciplines require careful coordination of supplies, labor and facilities to make sure items can move through the supply chain as required. Logistics is a key component of supply chain management, but just one piece of the equation.
+Similarities of Supply Chain Management and Logistics
+
+Supply chain management and logistics both work to move, store and deliver goods as efficiently as possible. Supply chain management provides the strategic direction that guides inbound and outbound logistics.
+Some common aspects of SCM and logistics are:
+
+    Both focus on goods, services or information.
+    Both have the ultimate aim of supporting the company’s success and distinguishing it from competitors.
+    Both seek to increase customer satisfaction.
+    Both revolve around the same flow of goods and services, from the supplier, to the manufacturer, to the wholesaler and finally to the retailer or consumer.
+
+How Are Supply Chain Management and Logistics Different?
+
+Supply chain management outlines the strategy and activities that go into planning, sourcing, producing and delivering goods, as well as handling returns. Logistics focuses on the right products being in the right place at the right time, and how to get them there.
+Key Differences Between Supply Chain Management and Logistics
+
+As should be clear at this point, supply chain management and logistics definitely intersect, but they differ when it comes to their scope and focus.
+Key differences between SCM and logistics include:
+
+    Logistics are activities in supply chain management. SCM covers a variety of activities, including production and inventory planning, labor planning, materials and facilities management, manufacturing and delivering goods and services.
+    SCM works toward improving processes to create competitive advantages, while logistics emphasizes meeting customer needs and expectations.
+    Logistics focus on the efficient and cost-effective delivery of goods to the customer.
+    Supply chain management controls the development of raw materials into finished goods that move from the supplier to producer to warehouse to retailers and/or consumers.
+    The term logistics originated with the military. Many historians credit Alexander the Great, born 356 B.C., as a logistics master.
+    The modern practice of supply chain management started in the 20th century. Many experts credit the logistician Keith Oliver as the person who coined the term supply chain management in the early 1980s.
+
+The Differences Between Supply Chain Management and Logistics
+Logistics 	Supply Chain
+Logistics is one activity in supply chain management. 	Supply chain management covers a wide range of activities, including planning, sourcing materials, labor and facilities management, producing and delivering those goods and services.
+Logistics focuses on the efficient and cost-effective delivery of goods to the customer. 	Supply chain management targets higher operational performance that will give the business a competitive advantage.
+Logistics started with the military. Many say Alexander the Great, born 356 B.C., as a logistics master. 	The modern practice of supply chain management started in the 20th century. The Ford Motor Company production lines perfected the concept. Many credit logistician Keith Oliver as the person who coined the term in the early 1980s.
+Logistics are centered on the movement and transport of goods within a company 	SCM oversees the development of raw materials into finished goods that move from the producer to the manufacturer. Those goods get distributed to retailers or directly to consumers.
+Role of Logistics in Supply Chain Management
+
+In supply chain management, logistics are responsible for the movement and storage of goods and services, along with the documents and reports that record those movements throughout an item’s journey to the customer.
+
+Logistics include the numerous transportation methods that get inventory from one location to another. This component is responsible for figuring out where goods can be kept at each stage until they’re needed at another location, which is essential to effective supply chain management.
+Why Logistics Are So Important to Supply Chains
+
+Logistics are a critical piece of supply chains because it manages and tracks the people and resources needed to store and transfer goods and services. Logistics ensure that materials and products reliably move at the right time and on budget.
+
+Specific aspects of logistics that support supply chains include:
+
+    Delivering the right products at the right time.
+    Reducing costs and improving efficiency.
+    Helping retain customers and increasing loyalty.
+    Providing a unique value proposition for some businesses.
+    Providing a means to deliver goods from the most cost-effective location for production to the location of the customer.
+
+Why Is Logistics Training So Important to Supply Chains?
+
+The field of logistics is constantly evolving as customer trends change. Logistics training helps employees and their companies stay current with best practices. Training gives a company the tools it needs to analyze and improve customer demand, product design and distribution strategies.
+
+Award Winning
+Cloud Inventory
+Free Product Tour(opens in new tab)
+Why Use Logistics and Supply Chain Management?
+
+Logistics and supply chain management help businesses stay competitive. These practices track and coordinate the efficient and cost-effective movement of goods and services, which is key to an organization’s profitability.
+Logistical Components of the Supply Chain
+
+Supply chain logistical components help to manage goods or services. Each element helps move materials, finished goods and services through the many steps in the supply chain.
+The following are the logistical components of supply chains:
+
+    Information:
+
+    Information helps track the status of items and all supply chain processes, informing business decisions at each step.
+    Storage:
+
+    Storage is the practice of holding supplies in the right quantity and right location. Businesses must strike a balance between demand and supply to prevent overstock and out-of-stock situations.
+    Warehousing:
+
+    This component controls the day-to-day warehouse operations, such as receiving, put-away, picking, packing, shipping and receiving.
+    Material handling:
+
+    Material handling can refer to the limited movement of items within a building or a delivery vehicle. Others extend the definition to include the storage, security and transfer of goods throughout the manufacturing, distribution and delivery processes.
+    Packaging:
+
+    Proper packaging ensures items arrive undamaged and ship for the lowest possible cost.
+    Unitization:
+
+    Unitization makes items efficient to arrange, transport and store. Unitization methods also ensure that material handling equipment can move items efficiently and without damaging them. The cube is one of the easiest units to store and shift, so it’s a popular type of unitization.
+    Inventory control:
+
+    Inventory control incorporates storage and warehousing techniques to optimize the types and amount of stock held and where. Companies can use inventory management formulas to better calculate demand.
+    Transportation:
+
+    This component is responsible for moving goods along the supply chain to the next node or directly to the customer. Transportation modes include cars, trains, trucks, planes and ships.
+
+The Role of Logistics within Supply Chain Management
+Supply Chain 	Logistics
+Planning 	“Information Inventory control”
+Sourcing 	“Information Material handling Transportation”
+Manufacturing 	“Information Material handling Storage Warehousing Packaging/Unitization Transportation”
+Delivering 	“Information Warehousing Inventory management Materials-handling Packaging Transportation”
+Returning 	“Information Packaging/Unitization Material handling Transportation Warehousing”
+How Both Supply Chain Management and Logistics Are Fundamental to Success
+
+Supply chain management and logistics both support customer needs and improve the buying experience. Logistics provides direct feedback on customer demand. SCM uses this data to understand what consumers want and plan production and inventory levels.
+
+Reliable, cost-effective logistics pave the way to efficient supply chain management. A well-managed supply chain results in filling orders accurately and on time, which over time will attract new clients and grow the bottom line.
+
+Many businesses have realized the benefits of using supply chain management software to help mitigate the complexities and challenges of supply chains. This software can unify various aspects of the supply chain, from sourcing to production planning to inventory and order management, to help organizations meet rising customer expectations while keeping costs stable. It can also provide in-depth reporting on various aspects of your operations to highlight opportunities for process improvements or call attention to potential problems.
+
+One company transformed its business after adapting supply chain management software. Initially a candy company, Green Rabbit built a heat-sensitive supply chain to help preserve its products during shipment. Other companies took notice, began to pay for the service, and Green Rabbit became a leading cold-chain logistics provider for perishable goods. Green Rabbit implemented NetSuite to manage its growing business, which includes three warehouses and an expanding list of customers. The solution automated many processes and it can now ship orders to all customers in one day.

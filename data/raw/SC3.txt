@@ -1,0 +1,109 @@
+The Supply Chain: From Raw Materials to Order Fulfillment What Is a Supply Chain?
+
+A supply chain is a network of individuals and companies that are involved in creating a product and delivering it to the consumer. Links on the chain begin with the producers of the raw materials and they end when the van delivers the finished product to the user.
+
+Supply chain management is a crucial process because an optimized supply chain results in lower costs and a more efficient production cycle. Companies seek to improve their supply chains so they can reduce their costs and remain competitive.
+Key Takeaways
+
+    A supply chain is a network of companies and people that are involved in the production and delivery of a product or service.
+    The components of a supply chain include producers, vendors, warehouses, transportation companies, distribution centers, and retailers.
+    The functions of a supply chain include product development, marketing, operations, distribution, finance, and customer service.
+    Many supply chains are global in scale.
+    Effective supply chain management results in lower costs and faster production cycles.
+
+Supply Chain
+
+Investopedia / Michela Buttignol
+Understanding a Supply Chain
+
+A supply chain includes every step that's involved in getting a finished product or service to the customer. The steps may include sourcing raw materials, moving them to production, then transporting the finished products to a distribution center or retail store where they can be delivered to consumers.
+
+The entities involved in the supply chain include producers, vendors, warehouses, transportation companies, distribution centers, and retailers.
+
+The supply chain begins operating when a business receives an order from a customer. Its essential functions include product development, marketing, operations, distribution networks, finance, and customer service.
+
+It can lower a company's overall costs and boost its profitability when supply chain management is effective. It can affect the rest of the chain and can be costly if one link breaks.
+What Are the Main Supply Chain Models?
+
+The supply chain model that a company selects will depend on how the company is structured and its specific needs.
+
+    Continuous Flow Model: This traditional supply chain model works well for companies that produce the same products with little variation. The products should be in high demand and require little to no redesign. This lack of fluctuation means managers can streamline production times and keep tight control over inventory. Managers must regularly replenish raw materials to prevent production bottlenecks in a continuous flow model.
+    Fast Chain Model: This model works best for companies that sell products based on the latest trends. Businesses that use this model must get their products to market quickly to take advantage of the prevailing trend. They must rapidly move from idea to prototype to production to consumer. Fast fashion is an example of an industry that uses this supply chain model.
+    Flexible Model: Companies that manufacture seasonal or holiday merchandise often use the flexible model. They experience surges in demand for their products followed by long periods of little to no demand. Using the flexible model ensures that they're able to gear up quickly to begin production and shut down efficiently as soon as demand tapers off. Profit depends on being accurate in forecasting their need for raw materials, inventory, and labor.
+
+What Are Supply Chain Management Best Practices?
+
+Successful supply chain management systems benefit from several practices:
+
+    They support continuous improvement.
+    They aim for increased velocity.
+    They encourage collaboration among the individual businesses in the supply chain.
+    They seek new technologies that improve their processes.
+    They have metrics in place that allow employees to measure the success or failure of each step in the supply chain.
+
+Supply Chain Management vs. Business Logistics Management?
+
+The terms supply chain management (SCM) and business logistics management or simply logistics are often used interchangeably but logistics is one link in the supply chain.
+
+Logistics deals with the planning and control of the movement and storage of goods and services from their point of origin to their final destination.
+
+Successful logistics management ensures that there's no delay in delivery at any point in the chain and that products and services are delivered in good condition. This helps keep the company's costs down.
+What Is the Flow of Manufacturing Costs?
+
+Efficient supply chain systems can get each piece of the product to the location where it's needed when it's needed. This requires control of the flow of manufacturing costs.
+
+The flow of manufacturing costs is most relevant to businesses that produce products that require many parts from several vendors. A clothing manufacturer might need deliveries of fabric, zippers, trim, and thread that must all arrive at the same time. They must be stored at the business' expense if some supplies arrive too early and the machines stand idle while they wait if some arrive late.
+Reliable Suppliers Are Key
+
+An efficient supply chain management process requires reliable suppliers that produce a product that meets the manufacturer’s specifications and deliver it on time.
+
+Assume that XYZ Furniture manufactures high-end furniture and that a supplier provides metal handles and other attachments. The metal components must be durable so they last for many years. They must meet the design and quality specified by the manufacturer and they must work as intended.
+
+A reliable supplier will fill the manufacturer’s order and ship the parts on time.
+Does the Supply Chain Cause Deflation?
+
+The increased efficiencies of supply chains have played a significant role in curbing inflation. Costs decrease as efficiencies in moving products from point A to point B increase. This reduces the final cost to the consumer. Deflation is often regarded as a negative but supply chain efficiencies are one of the few examples in which it's a good thing.
+
+Supply chain efficiencies become more optimized as globalization increases and this keeps the pressure on input prices.
+How Did COVID-19 Affect the Supply Chain?
+
+One of the most severe economic problems caused by the COVID-19 pandemic was damage to the supply chain. Its effects touched nearly every sector of the economy.1
+Important
+
+Supplies of products of all kinds were delayed due to ever-changing restrictions at national borders and long backups in ports.2
+
+Demand for products changed abruptly. Shortages developed as consumers hoarded essentials like toilet paper and baby formula. Masks, cleaning wipes, and hand sanitizers were suddenly in demand.3
+
+Shortages of computer chips delayed the delivery of a wide range of products from electronics to toys and cars.4
+Shifting Priorities
+
+A survey by Ernst & Young of 200 senior-level supply chain executives points to three essential findings:
+
+    The pandemic had a deep negative effect as cited by 72% of supply chain executives. Automotive and industrial supplies companies were hit the worst.
+    Visibility was the top priority. Executives wanted to focus on adding technology such as sensors that gave them a better view of their orders throughout the process.
+    The pandemic accelerated the transition to digitization. Most of those surveyed said that digital transformation combined with increased automation would accelerate going forward.5
+
+What Is Supply Chain Management?
+
+Supply chain management (SCM) is the oversight and control of all the activities required for a company to convert raw materials into finished products that are then sold to users. It provides centralized control for the planning, design, manufacturing, inventory, and distribution phases required to produce and sell a company's products.
+
+A goal of supply chain management is to improve efficiency by coordinating the efforts of the various entities in the supply chain. This can result in a company achieving a competitive advantage over its rivals and enhancing the quality of the products it produces. Both can lead to increased sales and revenue.
+What Are the Steps in a Supply Chain?
+
+The key steps in a supply chain include:
+
+    Planning the inventory and manufacturing processes to ensure that supply and demand are adequately balanced
+    Manufacturing or sourcing the materials needed to create the final product
+    Assembling parts and testing the product
+    Packaging the product for shipment or holding it in inventory until a later date
+    Transporting and delivering the finished product to the distributor, retailer, or consumer.
+    Providing customer service support for returned items
+
+What Is an Example of a Supply Chain?
+
+A supply chain begins with the sourcing of raw materials. The raw materials are then hauled to a wholesaler that sells them in batches to manufacturers. The manufacturer uses the materials to create a product which is then delivered to a retailer. Finally, it's sold to a consumer.
+The Bottom Line
+
+A supply chain is what lets you plug in your new television or bite down on that hamburger you’ve made at home. It’s a network made up of producers and manufacturers, vendors, warehouses, transportation companies, and retailers. The process begins when a product is created and it ends when you purchase it. Many supply chains are global in scale.
+
+Each step in the process is complicated by the need to create, prepare, package, ship, and unpack the product at each of its successive destinations but it can result in lower costs when it's done effectively. This benefit can be passed on to consumers. 

@@ -1,0 +1,112 @@
+supply chain is made up of interconnected parts of a whole, all of which add up to finished products bought by customers. Take automobiles, for example. Before a consumer buys a car, iron ore is extracted from the earth. The ore is transported to a plant, where it’s turned into steel, which is made into the chassis of the automobile. To make the car, various components—from engines to batteries, electrical components, rubber tires, a metal body, and paint—are assembled. Once the car is made, it’s sold in a retail setting to the end consumer.
+
+That’s a good illustration of several types of supply chain stakeholders:
+
+    producers, which make or grow the raw materials for goods
+    vendors, which buy and sell materials
+    manufacturers, which make materials into goods
+    transporters, or logistics providers, which move those goods around the world
+    supply chain managers, which ensure that operations run smoothly in everything from planning to sourcing raw materials, manufacturing, delivery, and returns
+    retailers, which sell goods either online or in physical stores
+    consumers, who buy and use those goods and services
+
+What’s the difference between value chains and supply chains?
+
+A supply chain includes all the raw materials and parts that are made into a product and distributed up the chain for manufacture and sale. In contrast, a value chain encompasses all the individual steps that are taken to create a marketable product. That includes not only physical components but also various value-adding activities that might be classified as part of the “knowledge economy”—things such as innovation, design, marketing, and sales—and that lead to the development of a product ready for customers.
+What is supply chain disruption?
+
+When any link in a supply chain isn’t working optimally, you might say the supply chain has been disrupted. Different issues can emerge. For example, an increase in inbound material costs because one material costs more this year than it did last year can have major implications on a company’s cost structure. Or labor market mismatches can cause operational concerns—for instance, if transport companies can’t find enough people who want to drive trucks to deliver goods.
+
+There are five areas where supply chain vulnerabilities most often show up:
+
+    planning and supplier networks
+    transportation and logistics systems
+    financial resiliency
+    product complexity
+    organizational maturity
+
+McKinsey research suggests that supply chain disruptions lasting one month or longer now occur every 3.7 years, on average. And these disruptions can have a steep price: they cost the average organization 45 percent of a year’s profits over the course of a decade.
+
+Learn more about our Operations Practice.
+What are some supply chain risks?
+
+Although the COVID-19 pandemic has delivered the biggest supply chain or value chain shock in recent memory, other examples abound. The Russian invasion of Ukraine has led to the worst humanitarian crisis in Europe since World War II, as well as supply chain disruptions in critical sectors, including agriculture, automotive, energy, and food. Changes in the environment and global economy have increased the frequency and magnitude of these shocks. For instance, the 2011 earthquake and tsunami in Japan shut down electronics factories, and 2017’s Hurricane Harvey disrupted US oil refineries and petrochemical plants, ultimately leading to shortages of some plastics and resins critical to different industries.
+
+McKinsey has classified supply chain shocks into four different types, based on their impact, lead time, and frequency of occurrence:
+
+    Unanticipated catastrophes. These are historically remarkable events that can’t be anticipated and lead to trillions of dollars in losses. Examples include extreme terrorism and a systemic cyberattack.
+    Foreseeable catastrophes. Shocks in this category are of a similar magnitude to an unanticipated catastrophe but differ in that larger patterns and probabilities can guide general preparedness. Examples include financial crises and global military conflicts.
+    Unanticipated disruptions. These are serious and costly events but are on a smaller scale than catastrophes. Examples include data breaches, product recalls, and industrial accidents.
+    Foreseeable disruptions. Some disruptions can be spotted in advance of their arrival. Examples include China–US trade disputes and the United Kingdom’s exit from the European Union.
+
+Organizations often focus on managing the shocks that they see most often. The COVID-19 pandemic is a reminder that while outliers are rare, organizations still need to consider such possibilities when making decisions and strategic moves. For most organizations, that will mean expanding supply chain executives’ long-standing focus on cost (and capital usage), service, and quality to include three new priorities: resilience, agility, and sustainability.
+How does inflation affect supply chains?
+
+Inflation can play a role in supply chain challenges. When inflation occurs, costs for input materials (such as energy) can rise substantially, having negative effects on companies’ profits and losses. One way to adjust is to increase prices (fairly) for consumers. Organizations can make more informed decisions by using an exposure matrix to assesses which categories of their products are exposed to market forces and whether the market is inflating or deflating. Also, organizations aren’t necessarily at the mercy of suppliers that say they have to increase prices in an inflationary market; McKinsey has identified several strategies for negotiating such demands.
+What is supply chain resilience?
+
+Resilience refers to the ability to withstand, adapt, and thrive in the face of internal and external shocks—both known and unknown. More specifically, operational resilience, which encompasses supply chains, is about businesses maintaining robust production capacity that can accommodate shifts in demand and remain stable amid disruption, without letting quality slide.
+
+When it comes to supply chain management, there are three steps that organizations can take to account for long-term uncertainty and possible upheaval:
+
+    Firefighting. This refers to short-term, day-to-day actions that can help identify previously overlooked supply chain gaps. These tactics don’t build resilience, however, so they should be used only in concert with more complex, long-term reforms.
+    Integrating and streamlining operations. Here, three actions can be critical to building resilient supply chains:
+        creating a nerve center to consolidate organizational responses
+        simulating and planning for extreme supply and demand disruptions
+        reevaluating just-in-time inventory strategies
+    Achieving structural resilience. Quick responses are easier to accomplish, but if long-term resilience is the goal, the following techniques can help:
+        constructing a digital twin of the most critical parts of the supply chain, allowing for simulations and test cases
+        creating and testing “what if” scenarios
+        increasing data sharing with suppliers
+        considering ring-fencing a small part of the supply chain team
+
+Other factors, such as building transparency for multiple tiers of suppliers, will be crucial vis-à-vis supply chain risk management. To take just one example, tapping into digital tools, building skills, and getting clear on processes helped an aerospace player that looked to increase its supply chain resilience.
+How do great supply chain organizations work?
+
+Supply chain management (and operations, more broadly) is now a CEO-level concern. Some of the strategic operational questions that CEOs have on their agenda include the following:
+
+    Can we meet customer demand both today and tomorrow?
+    Should we boost capacity to prepare for prolonged, rapid growth or reduce it to prepare for a slowdown?
+    Where will we find workers who are skilled and digitally savvy?
+    How do we decarbonize, minimize regulatory risk, and stay in business?
+
+Incremental efforts aren’t enough to capture the full potential, and drilling down in the right supply chain structure and physical footprints is a critical starting point. While it will take time to adapt supply or value chains (given challenges related to finding and qualifying alternative suppliers and to building new plants), taking a fresh look at networks and supply chain structures can help companies move forward.
+
+Here’s an example from the automotive industry. McKinsey research uncovered that midsize supplier plants with 1,000 to 1,500 employees were nearly twice as likely as bigger or smaller counterparts to score in the top quartile on productivity. So having production divided among several plants rather than in a single megafactory could help a company move closer to customers and reduce location risks (for example, weather-induced closures).
+
+Choices about supply chain design won’t work miracles. There’s no correlation, in McKinsey research, between supply chain organizational archetypes and bottom-line performance. But a variety of organizational mechanisms can supplement structure and help lead to successful outcomes. A survey found six markers of great supply chain teams, all of which were correlated with improved EBITDA:
+
+    end-to-end coordination
+    decision rights
+    performance metrics
+    social cohesion
+    career mobility
+    capability growth
+
+Learn more about our Operations Practice.
+What about digital supply chains?
+
+Few established companies have fully digitized their end-to-end operations. But digitization can be a feasible solution to operational challenges seen across many companies and industries. Industry 4.0, or the Fourth Industrial Revolution (4IR), describes the impact that increased connectivity, automation, and more have had on technology, industry, and society. In a survey of more than 400 global manufacturers, more than 90 percent of respondents said Industry 4.0 has helped them sustain their operations during the COVID-19 crisis; over half said their digital transformations have been crucial to their pandemic responses.
+
+Digitization, including advanced analytics, automation, and machine learning, can help operations become more productive, flexible, and geared for speed. Such approaches have yielded real results for some leading organizations—for example, reducing inventory and cost of goods sold by 30 percent, lowering cost of quality by 50 percent, and improving cash and productivity by 30 percent. Surveys also suggest that digitization and an embrace of Industry 4.0 technologies can boost eco-efficiency in supply chains.
+
+While some leading organizations have already realized value from digitization, others are lagging behind. Modernizing supply chain IT—for instance, to improve demand forecasting and planning systems—can have a powerful effect. For organizations looking to step up on IT for supply chain planning, three steps can help:
+
+    Redesign processes.
+    Select vendors.
+    Create an implementation road map.
+
+Cumulatively, these changes can have a significant impact, especially when they support a successful rollout of integrated business planning (IBP). Compared with organizations that lack a well-functioning IBP process, the average mature IBP practitioner realizes one or two additional percentage points in EBIT. Service levels are five to 20 percentage points higher. Freight costs and capital intensity are 10 to 15 percent lower, and customer delivery penalties and missed sales are 40 to 50 percent lower. IBP technology and process discipline can also make planners 10 to 20 percent more productive.
+
+An interview with Kimberly-Clark chief supply chain officer Shane Azzi underscores the importance of digital tools in supply chains. “Like many companies, we don’t always have the full picture,” Azzi said. “That’s why digital becomes such an important part of the solution—because you’ve got to have that end-to-end picture. We must be able to see emerging risks further upstream and downstream than ever before.” To get there, the company has explored demand sensing, looked at suppliers’ production schedules and logistics plans, and used digital platforms to monitor in-transit shipments.
+How does a supply chain affect sustainability?
+
+Managing an operation’s environmental impact holistically can help in addressing environmental, social, and governance issues more broadly. And the first step is often to understand the potential impact of driving eco-efficiency.
+
+Manufacturers in the Global Lighthouse Network (GLN), a collaborative initiative by McKinsey and World Economic Forum, that have embraced digital transformation have found that sustainability and competitive excellence may well go hand in hand. GLN data collected since the beginning of the project indicate that upward of 60 percent of “lighthouse” factories saw sustainability impact as part of the effect enabled by Industry 4.0 transformations. And that research highlighted three sustainability-focused manufacturing leaders based on their commitment to environment sustainability: Ericsson, Henkel, and Schneider Electric.
+
+Within supply or value chains, resource cleansheeting can help in designing cost-effective, carbon abated products. Designers, engineers, and purchasers could use this approach to identify factors that affect costs and emissions for a given product or service along the entire value stream and throughout its life cycle.
+
+More broadly, a number of companies are thinking about how to decarbonize their supply chains, focusing on Scope 3 emissions—that is, emissions generated up- and downstream in the value chain. This category of emissions can account for 80 percent of many companies’ overall climate impact. Consider the results that Interface, a carpet manufacturer in Europe, has seen since setting its mission-zero target in the early 1990s: it has since reduced its operations’ greenhouse-gas footprint by 96 percent and cut the carbon intensity of its products by 69 percent.
+
+Consumer goods companies in particular are making strides in preparing for a sustainable future by transforming company operations across the entire supply chain. Henkel, a consumer goods company based in Germany, provides one example of how a sustainability focus can flow through a supply chain. In an interview, the chief supply chain officer for Henkel’s laundry and home care business describes how the division decreased its CO2 footprint by 65 percent in the past 15 years, improving operational performance at the same time it lowered costs and CO2 emissions.

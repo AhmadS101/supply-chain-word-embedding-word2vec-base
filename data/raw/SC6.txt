@@ -1,0 +1,78 @@
+
+What Is Inventory Management?
+
+In tandem with strong supply and demand planning, inventory management enables supply chain organizations to effectively track stock as it moves in and out of a given warehouse or warehouses. But what is inventory management? As products and goods are used or sold, an inventory management system updates itself so that organizations always have accurate numbers to go by. From replenishing stock to meet trending demands, inventory management is key to ensuring that there is always the right amount of product ⁠— not too much, and not too little ⁠— at any given time.
+Why is inventory management important?
+
+When inventories contain a surplus of product, it creates a disruption to the overall flow and knocks the supply-demand balance out of order. If there isn't enough product, the end customer suffers. If there’s too much product, the warehouse isn't able to take in other products that carry a demand, and the organization faces a disruption to its cash flow. This also spills into logistics (as well as concerns surrounding environmental sustainability), as deliveries may become more sporadic if inconsistent product counts are being shipped unnecessarily.
+
+In addition, the Securities and Exchange Commission (SEC) requires all public companies to track their inventory, and the management of these processes must be documented in order to remain in compliance with SEC guidelines. This calls for a robust inventory management system to be implemented in order to both fulfill regulatory requirements and maintain organizational inertia.
+inventory management
+Types of inventory management
+
+There are 13 different types of inventory that supply chain organizations deal with that call for a robust inventory management system. These include:
+1. Raw materials
+
+Unprocessed materials such as metals, plastics, and oils that aren't recognizable after product completion.
+2. Parts and components
+
+Screws, bolts, hinges, and other parts that are recognizable on their own before and after product completion.
+3. Work in progress (WIP)
+
+Products currently in production that may include raw materials, parts and components, packing materials and more.
+4. Finished products
+
+Completed items that are ready to be distributed and sold.
+5. Maintenance, repair and operations (MRO) goods
+
+Supplies used either in the manufacturing of products or to maintain the business or organization.
+6. Packing and packaging materials
+
+Primary, secondary, and tertiary packaging that protects products during the fulfillment process from manufacturer to end user.
+7. Backup stock
+
+Backup, safety or anticipation stock includes products, raw materials or inventory that an organization carries in order to cover any unexpected or sudden events or to take advantage of sale pricing.
+8. Decoupling inventory
+
+Spare items or works in progress that are kept at production line stations in order to eliminate any work stoppages.
+9. Cycle inventory
+
+The amount of inventory required to meet customer needs (normal demand) at any given time.
+10. Service inventory
+
+The number of services that can be provided within a specific timeframe.
+11. Transit inventory
+
+Products or items that are currently in transit either from a manufacturer, a warehouse or a distribution center.
+12. Theoretical inventory
+
+The minimum amount of stocked products that an organization needs to facilitate an entire process without needing to wait.
+13. Excess inventory
+
+Unsold or unused products that aren't expected to sell but need to be kept in storage.
+Benefits of inventory management
+
+    Cost savings. Knowing where products are being stored and how many are available in each location means organizations can pull strategically when customer orders are placed. This lessens the strain on logistics processes and enables organizations to ensure that unsold stock is minimized or even eliminated from the inventory management equation.
+    Cash flow flexibility. Balanced inventory management means that new products are always coming in to replenish stock that is moving out. This ensures that organizations can maximize their cash flow capabilities to free up funds for other areas of the business.
+    Customer satisfaction. Backordered products cause dissatisfaction among customers and end users, but good inventory management practices ensure that products are always available and can be delivered quickly.
+
+Benefits of inventory management
+Challenges of inventory management
+
+    Accuracy. Software and automation have their limitations, one of which is maintaining continued accuracy in terms of inventory counts. If lost, stolen or damaged products are not recorded properly, supply issues can occur.
+    Demand fluctuation. Economic shifts, time of year and more can affect demand for specific products which is why inventory management systems need to have the capacity and capability to track buyer trends over time.
+    Physical storage. If products aren't organized and tracked well both in the system and in the warehouse, it will take more time to find and pull them to fulfill orders. This lowers employee productivity, disrupts the customer experience and adds unnecessary costs to the organization.
+
+Working through the challenges can be cumbersome at times, but earning an APICS Certified in Planning and Inventory Management (CPIM) designation can help supply chain professionals better navigate the nuances of inventory management and decipher best practices that lead to increased productivity, improved cost efficiency and enhance the overall strategy of their organization's inventory management processes.
+challenges of inventory management
+Inventory management and supply planning/demand planning
+
+Inventory management and supply and demand planning go hand in hand. When coordinated correctly, they also complement each other to help organizations achieve balance in their fulfillment processes. Supply planning enables better understanding of the challenges associated with bringing in new inventory without overstocking or running short supply; demand planning helps forecast the number of products that will be sold within a specific timeframe. Inventory management fits in right in the middle: By tracking all inventory that comes in and goes out, organizations always have access to accurate information to help with forecasting.
+Inventory management and supply planning/demand planning
+Inventory management versus inventory control
+
+Inventory control focuses on the movement of products within a specific warehouse, while inventory management is the process of tracking inventory across an entire organization that may have multiple locations and warehouse facilities. While there are many processes that make up inventory management, inventory control is one that takes place at the warehouse level instead of the organizational level.
+Inventory management versus inventory control
+Example of inventory management
+
+In 2019, power-management technologies company Eaton partnered with ASCM in order to develop and implement an enhanced learning process that would enable its employees to better address the challenges that come with inventory management. Eaton's main objective was to improve and optimize the flow of information and materials through its supply chain.

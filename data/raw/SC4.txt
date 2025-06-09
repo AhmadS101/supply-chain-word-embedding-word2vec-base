@@ -1,0 +1,75 @@
+What is a supply chain?
+
+A supply chain is the network of all the individuals, organizations, resources, activities and technology involved in the creation and sale of a product. A supply chain encompasses everything from the delivery of source materials from the supplier to the manufacturer through to its eventual delivery to the end user. The supply chain segment involved with getting the finished product from the manufacturer to the consumer is known as the distribution channel.
+Steps in the supply chain
+
+The fundamental steps of a supply chain in order are as follows:
+
+    Sourcing raw materials.
+    Refining those materials into basic parts.
+    Combining those basic parts to create a product.
+    Order fulfillment/Sales.
+    Product delivery.
+    Customer support and return services.
+
+The amount of time it takes any one of these processes from start to completion is known as lead time. Supply chains are managed by supply chain managers, who monitor lead time and coordinate the processes in each step to maximize customer satisfaction.
+
+Supply chains can be contrasted against value chains -- they contribute to the end product in different ways. Supply chains aim to meet customer demands. Value chains seek to add value to a product on top of its inherent value. The purpose of the value chain is to give the company a competitive advantage in the industry. Supply chain management and value chain management are two slightly different perspectives on the same basic process and work in tandem to meet two slightly different definitions of "demand."
+Supply chain management
+
+Supply chain management (SCM) is the oversight of materials, information and finances as they move in a process from supplier to manufacturer to wholesaler to retailer and then to the consumer. The three main flows of the supply chain are the product flow, the information flow and the finances flow. These occur across three main stages: strategy, planning and operation. SCM involves coordinating and integrating these flows both within and among companies.
+A diagram of the main stages of the supply chain.
+A diagram of the main stages of the supply chain.
+Supply chain models
+
+There are several common supply chain business models that supply chains fit into. The models have two main focuses: responsiveness and efficiency. Each model strives for some combination of both but approaches those goals differently. In addition, models tend to favor one over the other. Organizations can evaluate the value proposition of each in relation to their goals and constraints, and choose which suits them best.
+
+The model types are:
+
+    Continuous flow model -- works best for mature industries with a degree of stability.
+    Agile model -- works best for industries with unpredictable demand and products that are made to order.
+    Fast chain model -- works best for products with a short lifecycle, such as fashion items.
+    Flexible model -- works best for industries with a level of stability and a few relatively predictable demand peaks.
+    Custom configured model -- focuses on customizing.
+    Efficient chain model -- works best for highly competitive markets in which pricing plays a large part.
+
+The models are subject to overlap and should be designed by the supply chain manager to fit the unique supply chain.
+Supply chain challenges
+
+Modern supply chains are complex and present several common challenges. These are:
+
+    Potential lack of transparency. Having transparency enables stakeholders to understand the status of the supply chain.
+    Waste due to inadequate production cycle. Businesses that inaccurately gauge their supply, demand or capabilities may end up with an overstocked inventory.
+    Unsatisfied business partners and customers. The ultimate goal of SCM is to meet customer expectations. This involves managing those expectations realistically, but also providing a valuable product.
+    Lost or delayed goods. Goods that go missing at any point in the chain ultimately delay the whole process and can impact customers negatively.
+    Increasing customer expectations. New technology and businesses raise customer expectations, which can be difficult to manage, and impossible to meet if not properly managed.
+    Resiliency to sudden changes in the supply chain. External factors can cause unforeseen changes in a supply chain, so best practice is to prepare for the unexpected and be able to pivot if need be.
+
+Supply chain best practices
+
+Supply chain managers need to adapt to the growing speed and scale of the global marketplace. Best practices for doing this include:
+
+    Use lean SCM and logistics techniques. Lean increases flexibility and minimizes inventory waste.
+    Increase inventory velocity. Companies need to ensure their supply doesn't outweigh demand, and that they can capitalize on distributed, quickly changing demand. Lean is one way to do this.
+    Enterprises need to collaborate with other businesses in their supply chain to optimize the entire chain, not just one company's process. The relationship with suppliers is especially important.
+    Shorten cycles. As supply chains become more complex, they get longer, and so do processes. Businesses should aim to keep them as short as possible to meet customer expectations.
+    Use supply chain technology. Technology allows managers to integrate their supply chains and collaborate more effectively.
+    Implement useful metrics. Well-defined metrics allow managers to accurately gauge the efficiency of the chain.
+
+The evolution and future of the supply chain
+
+In the 1980s and 1990s, increasing globalization, outsourcing and availability of information spurred the need to integrate business processes across the entire global supply chain, which resulted in the idea of supply chain management. This marked a shift from the traditional supply chain, which just involved the basic logistic steps of production. With the integration, companies gained more visibility in steps following and preceding theirs in the chain, and each company involved in a supply chain became focused on optimizing the entire chain instead of just their local process.
+
+As such, market competition dynamics changed as well. Instead of individual companies in competition, entire chains consisting of several enterprises would compete, as company investment in their respective chains grew. Enterprises began to outsource manufacturing and logistics processes to third-party companies.
+
+The increase in visibility as a result of globalization and advancing technology had beneficial effects for businesses, such as improved product traceability and social responsibility efforts.
+
+Since then, the evolution of internet businesses, the internet of things (IoT) and mobile computing have changed the way customers order products and the way businesses work. The internet enables customers to directly contact product distributers. This has consequently shortened the supply chain by removing some middlemen and encouraged collaboration.
+
+However, internet businesses like Amazon have raised customer expectations for delivery times and convenience. Normalizing features like next-day delivery may increase order fulfillment efficiency, but also puts stress on other parts of the chain. Because orders can be made and received faster, they need to be delivered at an equally accelerated pace. This often leads to waste as companies over-order materials and then face a lower volume of orders. Machine learning, artificial intelligence and automation, among other technologies, have helped companies increase responsiveness to meet this increasing demand.
+
+Traditional supply chains had a more localized, bottom-up approach that dictated work closer to the supplier. Amazon's backward vertical integration represents the opposite approach, in which the company started as a retailer and worked backward to become a publisher and partial owner of its distribution channel.
+
+The COVID-19 pandemic has accelerated the diverse sourcing trend and placed an increased emphasis on inventory management and visibility. Machine learning and artificial intelligence will play an increasingly large part in diversifying supply change and improving the responsiveness and resiliency of supply chains, likely continuing after the economic shock from the pandemic has passed.
+
+The pandemic may also cause economies to restructure their supply chains away from ultra-lean models that rely heavily on flexibility and network interconnectedness to provide product quickly.
