@@ -15,25 +15,17 @@ It learns rich, contextual relationships between supply chain terms. From procur
 - Built a custom dataset and data loader using PyTorch’s `Dataset` and `DataLoader` classes to efficiently feed data during training.  
 - Developed a neural network model leveraging PyTorch’s `nn` module to learn word embeddings.  
 - Trained the model on the processed dataset, then deployed it as an interactive application using the Streamlit framework for easy usage and testing.
-- `supply-chain-word2vec/`  
-`├── data/`  
-`│   ├── raw/`  
-`│   ├── interm/`  
-`│   └── processed/`  
-`│`  
-`├── models/`  
-`│   └── cbow_model/`  
-`│`  
-`├── src/`  
-`│   ├── dataset_prepared/`  
-`│   ├── dataset_preprocessing/`  
-`│   ├── build_dataset/`  
-`│   ├── cbow_model/`  
-`│   ├── model_trainer/`  
-`│   └── app.py`  
-`│`  
-`├── requirements.txt`  
-`└── README.md`
+  
+---
+### Model Training
+The CBOW model was trained using the following configuration:
+- **Vocabulary Size:** 23,450 words  
+- **Embedding Dimension:** 300  
+- **Epochs:** 150  
+- **Training Time:** ~3 hours on CPU  
+
+The model was trained using PyTorch, with custom DataLoader and Dataset classes to efficiently handle large-scale word-context pairings. Despite training on CPU, the model achieved stable convergence over the given epochs.
+
 ---
 ### Usage
 #### 1. Clone the repository
@@ -61,14 +53,20 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
-### Model Training
-
-The CBOW model was trained using the following configuration:
-
-- **Vocabulary Size:** 23,450 words  
-- **Embedding Dimension:** 300  
-- **Epochs:** 150  
-- **Training Time:** ~3 hours on CPU  
-
-The model was trained using PyTorch, with custom DataLoader and Dataset classes to efficiently handle large-scale word-context pairings. Despite training on CPU, the model achieved stable convergence over the given epochs.
-
+### Project Structure
+- `supply-chain-word2vec/`  
+`├── data/`  
+`│   ├── raw/`  
+`│   ├── interm/`  
+`│   └── processed/`  
+`├── models/`  
+`│   └── cbow_model/`  
+`├── src/`  
+`│   ├── dataset_prepared/`  
+`│   ├── dataset_preprocessing/`  
+`│   ├── build_dataset/`  
+`│   ├── cbow_model/`  
+`│   ├── model_trainer/`  
+`│   └── app.py`  
+`├── requirements.txt`  
+`└── README.md`
