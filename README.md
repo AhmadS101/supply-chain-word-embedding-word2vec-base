@@ -5,6 +5,8 @@
 This project builds a domain-specific word embedding model using the Word2Vec architecture, tailored for supply chain data.  
 It learns rich, contextual relationships between supply chain terms. From procurement to logistics, the model unlocks insights hidden in unstructured text across the supply chain ecosystem.
 
+https://github.com/user-attachments/assets/52af26e3-c916-44df-a8ec-0166762bb494
+
 
 ---
 ### Problem Structure
