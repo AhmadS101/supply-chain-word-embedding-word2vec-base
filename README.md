@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/52af26e3-c916-44df-a8ec-0166762bb494
 ---
 ### Model Training
 The CBOW model was trained using the following configuration:
-- **Vocabulary Size:** 23,450 words  
+- **Vocabulary Size:** 2500 words  
 - **Embedding Dimension:** 300  
 - **Epochs:** 150  
 - **Training Time:** ~3 hours on CPU  
@@ -64,11 +64,11 @@ streamlit run app.py
 `├── models/`  
 `│   └── cbow_model/`  
 `├── src/`  
-`│   ├── dataset_prepared/`  
-`│   ├── dataset_preprocessing/`  
-`│   ├── build_dataset/`  
-`│   ├── cbow_model/`  
-`│   ├── model_trainer/`  
+`│   ├── dataset_prepared.py`  
+`│   ├── dataset_preprocessing.py`  
+`│   ├── build_dataset.py`  
+`│   ├── cbow_model.py`  
+`│   ├── model_trainer.py`  
 `│   └── app.py`  
 `├── requirements.txt`  
 `└── README.md`
